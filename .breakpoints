@@ -1,11 +1,19 @@
 {
   "files": {
+    "k26.py": [
+      {
+        "id": "48c0f8dd-5eec-4617-b6b2-63fbec6d975f",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
     "karel_world_editor.py": [
       {
         "id": "61cb7231-b2ca-4504-826b-50305db5e88c",
-        "line": 3,
-        "version": 13,
-        "index": 84
+        "line": 5,
+        "version": 15,
+        "index": 105
       }
     ]
   }
